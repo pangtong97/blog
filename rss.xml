@@ -14,8 +14,8 @@
          <link>{{ site.url }}{{ post.url }}</link>
          <guid>{{ site.url }}{{ post.id }}</guid>
          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-         <author><![CDATA[YanyiWu]]></author>
-         <description><![CDATA[{{ post.content }}]]></description>
+         <author><![PangTong]></author>
+         <description><![{{ post.content }}]></description>
      </item>
 {% endfor %}
 </channel>
