@@ -1,10 +1,10 @@
-name: YanyiWu
+name: PangTong
 markdown: redcarpet
 #highlighter: pygments
 redcarpet:
  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
  render_options:
-author: yanyiwu
-author_email: i@yanyiwu.com
+author: pangtong
+author_email: idisreg@gmail.com
 safe: false
-url: http://yanyiwu.com
+url: http://pangtong97.github.io
