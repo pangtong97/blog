@@ -6,7 +6,7 @@ title: 时间线
 &raquo; 2018-11-28 18:22
 
 > 这两天花了点时间把`Linux`的一些常用命令学习了一遍，顺便画了一个思维导图，也方便自己以后复习查看。从今天开始，今后学习过的知识都尝试画一张思维导图来理清自己所学到的东西。
-> <center>![Basic Linux Command](/img/timeline_img/Linux_Command.png)</center>
+> [Basic Linux Command](/img/timeline_img/Linux_Command.png)
 
 &raquo; 2018-11-28 16:10
 
