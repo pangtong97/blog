@@ -8,9 +8,7 @@ title: 时间线
 > 这两天花了点时间把`Linux`的一些常用命令学习了一遍，顺便画了一个思维导图，也方便自己以后复习查看。从今天开始，今后学习过的知识都尝试画一张思维导图来理清自己所学到的东西。
 
 <center>
-<img src="http://ww1.sinaimg.cn/large/006nRXiIly1fxnzn6e6ouj317r0icaaz.jpg" width="25%" height="25%" />
-$ $
-Figure 1. Linux Command
+<img src="http://ww1.sinaimg.cn/large/006nRXiIly1fxnzn6e6ouj317r0icaaz.jpg" width="50%" height="50%" />
 </center>
 
 &raquo; 2018-11-28 16:10
