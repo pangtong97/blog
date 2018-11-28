@@ -1,3 +1,1 @@
-# Blog
-
-[pangtong97.github.io](pangtong)
+# PangTong's Blog
